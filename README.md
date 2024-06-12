@@ -4,4 +4,4 @@ Open Windows setting -> Edit the system environment variables,
 on advanced tab -> Enviroment Variables,
 on User variables for admin, click on 'PATH' -> Edit -> New -> 'your flutter SDK path' -> Apply
 
-open cmd -> 'cd <your-repo-directory>' -> flutter doctor -> flutter pub get -> flutter run
+open cmd -> 'cd your-repo-directory' -> flutter doctor -> flutter pub get -> flutter run
